@@ -8,7 +8,7 @@ Install tools globally:
 
 `npm run global-install`
 
-## Usage of oref0
+## Use of oref0
 
 ### `oref0`
 
